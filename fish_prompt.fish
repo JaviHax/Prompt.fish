@@ -1,6 +1,5 @@
 #Parrotlike prompt By JaviHax.
 #programado por Javier "JaviHax" Rivas para fish
-#todos los derechos reservados.
 
 function fish_prompt
 	set_color red
